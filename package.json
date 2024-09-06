@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@slack/bolt": "^3.4.0",
+    "@slack/bolt": "^3.21.1",
     "cockatiel": "^2.0.2",
     "node-fetch": "^2.6.1",
     "pg": "^8.6.0"
